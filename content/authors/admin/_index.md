@@ -3,7 +3,7 @@
 title: Rakesh kanth
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Rakesh kanth
@@ -112,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I'm Rakesh Kanth, a data scientist with over 3 years of experience in Data sciecne. My expertise in Python, Machine learning, Deep learning, Natural Language processing has helped me solve complex business problems and drive meaningful insights. I am a creative problem-solver with a passion for turning data into actionable solutions.
 {style="text-align: justify;"}
